@@ -2,8 +2,6 @@
 
  https://sysung93.github.io/VanillaProject_Starbucks/
  
- <img width="80%" src="{https://user-images.githubusercontent.com/91680832/159155376-76560ccc-cacb-4161-97be-5355fe5bacbf.mp4}" />
- 
  # 사용한 기술
  HTML, CSS, JS
 
